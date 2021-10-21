@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Nates-Shopping-Cart/static/css/main.399bdd3b.chunk.css",
-    "main.js": "/Nates-Shopping-Cart/static/js/main.70916e2b.chunk.js",
-    "main.js.map": "/Nates-Shopping-Cart/static/js/main.70916e2b.chunk.js.map",
+    "main.js": "/Nates-Shopping-Cart/static/js/main.942bd2d4.chunk.js",
+    "main.js.map": "/Nates-Shopping-Cart/static/js/main.942bd2d4.chunk.js.map",
     "runtime-main.js": "/Nates-Shopping-Cart/static/js/runtime-main.65090a46.js",
     "runtime-main.js.map": "/Nates-Shopping-Cart/static/js/runtime-main.65090a46.js.map",
     "static/css/2.0a9ec390.chunk.css": "/Nates-Shopping-Cart/static/css/2.0a9ec390.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.6a329e69.chunk.js",
     "static/css/main.399bdd3b.chunk.css",
-    "static/js/main.70916e2b.chunk.js"
+    "static/js/main.942bd2d4.chunk.js"
   ]
 }
